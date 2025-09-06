@@ -65,8 +65,7 @@ if __name__ == "__main__":
 
 """
 root# python3 dec.py
-flag DH{cry_m3_4_r1v3r_0x04d43f}
-plain b'C# is an excellent programming languag\r\nbecause it combines simplicity with power\r\n
+b'C# is an excellent programming languag\r\nbecause it combines simplicity with power\r\n
 It offers strong type safety automatic memory management through garbage collection\r\
 nand excellent performance The language has rich library support seamless integration with Microsoft ecosystem and cross platform capabilities with .NET Core\r\n
 Its object oriented design makes code maintainable and scalable for enterprise applications\r\nDH{cry_m3_4_r1v3r_0x04d43f}'
